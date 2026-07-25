@@ -13,7 +13,10 @@ I enjoy building scalable applications that solve real-world problems, from AI-p
 - ⚡ **Beyond Coding:** Fitness enthusiast,Guitarist,Poet,tech explorer, and someone who loves turning ideas into real products.
 
 ## 🐍 My Contribution Journey
-![Snake Animation](https://githubusercontent.com)
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Grid Snake" />
+</p>
+
 
 
 ## 🌐 Socials:
