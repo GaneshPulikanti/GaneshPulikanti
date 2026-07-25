@@ -14,9 +14,8 @@ I enjoy building scalable applications that solve real-world problems, from AI-p
 
 ## 🐍 My Contribution Journey
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Grid Snake" />
+  <img src="https://github.com" alt="GitHub Snake" />
 </p>
-
 
 
 ## 🌐 Socials:
