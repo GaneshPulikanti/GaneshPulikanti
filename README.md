@@ -12,7 +12,7 @@
     <li>🛠️ <b>Creator of Maya AI Companion & RecipeGPT</b></li>
     <li>🚀 <b>Passionate about Backend, Cloud, Docker & Secure Systems</b></li>
     <li>🎸 <b>Hobbyist:</b> Fitness, Guitar & Writing Poetry</li>
-    <li>🔥 <b>Vision:</b> Building intelligent tech that simplifies real-world lives</li>
+    <li>🔥 <b>Vision:</b>Code smart, build fast, and create tech that actually matters.</li>
   </ul>
 
 </div>
