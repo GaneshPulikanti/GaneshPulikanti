@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+
+👋 Hi, I'm **Ganesh** — a final-year Computer Science & Engineering student passionate about **Artificial Intelligence, Full-Stack Development, and Software Engineering**.
+
+I enjoy building scalable applications that solve real-world problems, from AI-powered assistants to intelligent agriculture platforms. My goal is to become a Software Engineer while continuously exploring emerging technologies in AI and cloud computing.
+
+- 🚀 **Currently Building:** Smart Kisan Mitra, AI-powered applications, and full-stack web projects.
+- 💻 **Tech Stack:** Python, JavaScript, React, Node.js, Express.js, MongoDB, Flutter, Firebase, FastAPI.
+- 🤖 **Interested In:** Generative AI, LLMs, AI Agents, Computer Vision, and System Design.
+- 🌱 **Currently Learning:** Advanced Backend Development, Cloud Computing, Docker, and Scalable System Architecture.
+- 🤝 **Open to Collaborate On:** AI, Open Source, MERN Stack, Flutter, and Developer Tools.
+- 🎯 **Career Goal:** Become a world-class Software Engineer and build products that make a meaningful impact.
+- ⚡ **Beyond Coding:** Fitness enthusiast,Guitarist,Poet,tech explorer, and someone who loves turning ideas into real products.
+
+## 🐍 My Contribution Journey
+![Snake Animation](https://githubusercontent.com)
 
 
 ## 🌐 Socials:
@@ -13,14 +27,25 @@
 ![](https://streak-stats.demolab.com/?user=GaneshPulikanti&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GaneshPulikanti&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GaneshPulikanti&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Profile Accomplishments
+- **💻 Full-Stack Development:** Fabricating production web frameworks and cross-platform native applications.
+- **🤖 Applied Artificial Intelligence:** Engineering custom assistant tools leveraging LangChain, FAISS, and vector database structures.
+- **🛠️ Agile Open Source Automation:** Managing active codebase workflows across independent public environments.
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GaneshPulikanti&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories:
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [🍳 RecipeGPT](https://github.com) | AI-powered food assistant built using LangChain, Groq, Hugging Face embeddings, and FAISS. Answers food queries, ingredients, and steps. | React, LangChain, CSS |
+| [🤖 Maya AI Companion](https://github.com) | Personal companion combining conversational AI, voice interaction, memory, journaling, and emotional support. | JavaScript, AI |
+| [🌾 Smart Kisan Mitra](https://github.com) | AI-powered agricultural assistant for crop guidance, weather insights, and plant disease detection for farmers. | HTML, JavaScript, AI |
+
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=GaneshPulikanti&icon=0&color=0)](https://visitcount.itsvg.in)
