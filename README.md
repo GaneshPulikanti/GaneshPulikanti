@@ -14,9 +14,8 @@ I enjoy building scalable applications that solve real-world problems, from AI-p
 
 ## 🐍 My Contribution Journey
 <p align="center">
-  <img src="https://github.com" alt="GitHub Snake" />
+  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake Grid" />
 </p>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganesh_pulikanti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-pulikanti-8b46362a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23x51a05h6@srecnandyal.edu.in2323) 
