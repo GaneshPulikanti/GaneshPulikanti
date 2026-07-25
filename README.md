@@ -14,7 +14,7 @@ I enjoy building scalable applications that solve real-world problems, from AI-p
 
 ## 🐍 My Contribution Journey
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake Grid" />
+  <img src="https://raw.githubusercontent.com/GaneshPulikanti/GaneshPulikanti/output/snake.svg" />
 </p>
 
 
