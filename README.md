@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=24&pause=1200&color=FF007F&center=true&vCenter=true&width=700&lines=Full-Spectrum+Tech+Builder+%F0%9F%94%A5;First-Principles+Problem+Solver+%F0%9F%A7%A9;AI+%26+Full-Stack+Developer+%F0%9F%A4%96;Guitarist+%F0%9F%8E%B8+%2B+Fitness+Enthusiast+%F0%9F%8F%8B%EF%B8%8F;Engineering+Solutions+For+Tomorrow+%E2%9A%A1" alt="Typing SVG" />
+</p>
+
   <div align="left">
 
   <h1>💫 About Me</h1>
@@ -50,7 +54,6 @@
   <h1>📊 GitHub Stats:</h1>
   <p>
     <img src="https://streak-stats.demolab.com/?user=GaneshPulikanti&theme=github_dark&hide_border=false" alt="Streak Stats" /><br/><br/>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=GaneshPulikanti&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </p>
 
   <h2>🏆 Profile Accomplishments</h2>
